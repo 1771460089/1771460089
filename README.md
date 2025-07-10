@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1771460089
-- 👀 I’m interested in star good project.
-- 🌱 I’m currently learning OOP.
+- 👀 I’m interested in star good project and learn how to develop software.
+- 🌱 I’m currently learning OOP and functional programming.
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me 
 - 😄 Pronouns: ...
