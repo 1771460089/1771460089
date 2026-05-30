@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @1771460089
-- 👀 I’m interested in star good project and learn how to develop software.
-- 🌱 I’m currently learning OOP and functional programming.
-- 💞️ I’m looking to collaborate on .
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+To protect my account from being flagged.
 
 <!---
 1771460089/1771460089 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
